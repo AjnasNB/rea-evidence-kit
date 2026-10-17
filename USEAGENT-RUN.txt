@@ -1,0 +1,43 @@
+PREPARATION ONLY. THIS FILE IS NOT A CONTEST ENTRY OR A COMPLETED USEAGENT RUN.
+
+Human participant: manually open your own UseAgent account, start the run yourself,
+and make your own uninterrupted 1-3 minute recording of real work/results. Do not
+have another AI or script launch the run. Disclose this toolkit as prior work.
+Rules: https://useagent.org/hackathon
+
+Paste the following prompt yourself:
+
+Analyze the Qarinah and Maqam adapters in my public Cockroach Browser project.
+Use https://github.com/AjnasNB/rea-evidence-kit as declared existing tooling, and
+the pinned public source commit in its README. Run the documented REA6.5.0 static
+analysis and create a fresh context contract for this actual UseAgent run.
+
+Do useful new analysis, rather than copying the existing example report. Answer:
+1. What data does the Qarinah adapter accept and emit, and which source functions
+   establish those observations?
+2. Which registered-action boundary does the Maqam adapter check, and which
+   runtime/security claims cannot be established from this selected source?
+3. Which dependencies, dynamic behavior and graph relationships remain unknown?
+
+Use exact public source lines and retained REA evidence references. Retrieve only
+selected detail needed for these questions; do not inject the raw graph. Preserve
+partial coverage, semantic truncation and unknown counts. Verify each cited claim
+against source. If an answer is unsupported, label it unknown rather than guessing.
+
+Write reports/useagent-owned-run.md with the commands actually run, observed
+outputs, three answers, checked citations and explicit omissions. Record actual
+context/output sizes if available. Do not invent token savings or a benchmark.
+Run the focused toolkit tests. Capture the actual commit/result URL and genuine
+UseAgent thread link when available; leave absent links explicitly pending.
+
+Cost controls: one main worker; no model/API/decompiler subscription purchases;
+no global MCP setup; 4096-character context contracts; focused Qarinah summary
+recall at max2000characters/limit3 when available. No unrestricted repair loops:
+after a repeated failure, save the precise blocker. Keep raw Evidence, local
+memory, dependencies and credentials outside Git. Do not run target apps/browsers.
+
+Do not claim an application, contest submission, award or payment occurred. I will
+review the real run, continuous video and accessible result before entering it.
+
+After the run, the human supplies the genuine thread/result/video links. A final
+entry must disclose actual engine/model use and satisfy the current contest rules.
