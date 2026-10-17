@@ -1,0 +1,6 @@
+.qarinah/
+node_modules/
+.inputs/
+.evidence/
+.tmp/
+*.log
